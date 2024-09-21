@@ -1,8 +1,7 @@
 # provas_aws_estudo
 
-Bom dia pessoal. Tudo bem?
- 
-Como eu havia dito, o conteudo do livro/udemy estao em ordens diferentes. E por isso, para que possamos discutir os msmos assuntos nos nossos encontros separei dessa forma:
+
+ conteudo do livro/udemy estao em ordens diferentes. E por isso, para que possamos discutir os msmos assuntos nos nossos encontros separei dessa forma:
  
 2a semana (3,5h + 2 cap livro):
 
